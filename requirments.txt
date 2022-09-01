@@ -1,0 +1,16 @@
+Game Rock, scissors, paper with alive player Humanoid on-line
+Wabpack (Export/Import)
+    Babel
+    Scss
+    EsLint
+    2 Modes
+           -Dev
+           Dev Server, SoursMaps, Eslint, No Minified JS & CSS
+           -Prod
+           Minified Code
+
+    Git
+        Production
+        0.0.1
+        Development
+        1.0.0
