@@ -1,4 +1,3 @@
-import './module';
-import './scss/index.scss'
+import './scss/index.scss';
 
-console.log('Lets start ')
+console.log('Lets start ', )

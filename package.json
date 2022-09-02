@@ -25,16 +25,21 @@
   "homepage": "https://github.com/RashVV/GameApp#readme",
   "resolutions": {
     "browserslist": "4.6.2",
-    "caniuse-lite": "1.0.30000974"
+    "caniuse-lite": "1.0.30000974",
+    "mini-css-extract-plugin": "2.4.5"
   },
   "devDependencies": {
     "@babel/core": "^7.18.13",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.5",
     "copy-webpack-plugin": "^11.0.0",
     "cross-env": "^7.0.3",
     "css-loader": "^6.7.1",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-loader": "^4.0.2",
     "html-webpack-plugin": "^5.5.0",
-    "mini-css-extract-plugin": "^2.6.1",
+    "mini-css-extract-plugin": "^2.4.5",
     "sass": "^1.54.8",
     "sass-loader": "^13.0.2",
     "webpack": "^5.74.0",
